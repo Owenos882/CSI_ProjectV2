@@ -57,5 +57,5 @@ Result Output
 
 Conviction System  
 If the user convicts:
-- Correct suspect → “Guilty!” message  
-- Incorrect suspect → “Wrong Suspect!” message  
+- Correct suspect > “Guilty!” message  
+- Incorrect suspect > “Wrong Suspect!” message  
